@@ -27,5 +27,7 @@
 **Books**
 - [Books](https://github.com/TheDevOpsHub/Books)
 
+**Projects/Hands-on**
+- [devops-project](https://github.com/tungbq/devops-project)
 
 Checkout all the repositories at [TheDevOpsHub/repositories](https://github.com/orgs/TheDevOpsHub/repositories)
