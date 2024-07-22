@@ -15,6 +15,7 @@
 - [TerraformHub](https://github.com/TheDevOpsHub/TerraformHub)
 - [AnsibleHub](https://github.com/TheDevOpsHub/AnsibleHub)
 - [aws-lab-with-terraform](https://github.com/tungbq/aws-lab-with-terraform)
+- [ansible-template](https://github.com/TheDevOpsHub/ansible-template)
 
 **Containerization / K8s**
 - [microservices-deployment](https://github.com/TheDevOpsHub/microservices-deployment)
