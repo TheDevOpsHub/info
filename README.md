@@ -1,6 +1,11 @@
 # The DevOps Hub projects 🔖
 [The DevOps Hub](https://github.com/thedevopshub) projects information, devided by various DevOps area:
 
+**The trio DevOps**
+- [devops-basics](https://github.com/tungbq/devops-basics): 🚀 Practical and document place for DevOps toolchain
+- [devops-practice](https://github.com/tungbq/devops-practice): A place to learn and practice DevOps in a hands-on way 🎮
+- [devops-project](https://github.com/tungbq/devops-project): Collection of DevOps projects to level up your DevOps skills
+
 **Cloud**
 - [AzureHub](https://github.com/TheDevOpsHub/AzureHub): ☁️ Collection of Azure documentation and learning resources
 - [AWSHub](https://github.com/tungbq/AWSHub): 📚 Collection of AWS Services documentation and learning resources ☁️
@@ -27,8 +32,5 @@
 
 **Books**
 - [Books](https://github.com/TheDevOpsHub/Books): 📚 Collection of DevOps books
-
-**Projects/Hands-on**
-- [devops-project](https://github.com/tungbq/devops-project): Collection of DevOps projects to level up your DevOps skills
 
 Checkout all the repositories at [TheDevOpsHub/repositories](https://github.com/orgs/TheDevOpsHub/repositories)
