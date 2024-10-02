@@ -9,6 +9,7 @@
 **Cloud**
 - [AzureHub](https://github.com/TheDevOpsHub/AzureHub): ☁️ Collection of Azure documentation and learning resources
 - [AWSHub](https://github.com/tungbq/AWSHub): 📚 Collection of AWS Services documentation and learning resources ☁️
+- [AZ-104](https://github.com/TheDevOpsHub/AZ-104): AZ-104 certification learning resources
 
 **Linux/OS**
 - [LinuxHub](https://github.com/TheDevOpsHub/LinuxHub): Linux practices, tips and tricks
