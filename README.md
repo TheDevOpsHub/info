@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/logo.png" width="400"></h1>
+<!-- <h1 align="center"><img src="./assets/logo.png" width="400"></h1> -->
 <h1 align="center">The DevOps Hub Info</h1>
 
 ## Welcome to TheDevOpsHub 👋
