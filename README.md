@@ -28,7 +28,7 @@
 
 - [**LinuxHub**](https://github.com/TheDevOpsHub/LinuxHub): Linux practices, tips and tricks
 
-**CI tools**
+**CI/CD tools**
 
 - [**JenkinsHub**](https://github.com/TheDevOpsHub/JenkinsHub): The Jenkins Hub
 
@@ -48,6 +48,7 @@
 **Monitoring**
 
 - [**MonitoringHub**](https://github.com/TheDevOpsHub/MonitoringHub): Monitoring Hub - Prometheus, Grafana and more...
+- [**prometheus-stack**](https://github.com/TheDevOpsHub/prometheus-stack): Docker compose for the Prometheus monitoring stack
 
 **Cheatsheet**
 
