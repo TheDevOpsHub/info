@@ -12,7 +12,7 @@
 
 [The DevOps Hub](https://github.com/thedevopshub) projects information, devided by various DevOps area:
 
-**The trio DevOps**
+**The trio DevOps projects**
 
 - [devops-basics](https://github.com/tungbq/devops-basics): 🚀 Practical and document place for DevOps toolchain
 - [devops-practice](https://github.com/tungbq/devops-practice): A place to learn and practice DevOps in a hands-on way 🎮
@@ -48,6 +48,10 @@
 **Monitoring**
 
 - [MonitoringHub](https://github.com/TheDevOpsHub/MonitoringHub): Monitoring Hub - Prometheus, Grafana and more...
+
+**Cheatsheet**
+
+- [**cmd**](https://github.com/tungbq/cmd): A bookmark for daily used command line :bookmark: (URL: [tungbq.github.io/cmd](https://tungbq.github.io/cmd))
 
 **Books**
 
