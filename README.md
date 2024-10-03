@@ -4,6 +4,7 @@
 - A central DevOps learning space with documentation, hands-on samples, demo for wide range of DevOps tools, clouds.
 - Owner and maintainer: [@tungbq](https://github.com/tungbq) (Tung Leo)
 - GitHub: https://github.com/thedevopshub
+- Info website: https://info.thedevopshub.org/
 
 ## Projects 🔖
 [The DevOps Hub](https://github.com/thedevopshub) projects information, devided by various DevOps area:
