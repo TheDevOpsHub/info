@@ -37,6 +37,7 @@ Infrastructure as code
 - **Terraform**
   - [**TerraformHub**](https://github.com/TheDevOpsHub/TerraformHub): 🚀 Practical and document place for Terraform
   - [**aws-lab-with-terraform**](https://github.com/tungbq/aws-lab-with-terraform): Collection of Terraform code for AWS labs
+  - [**terraform-template**](https://github.com/TheDevOpsHub/terraform-template): Terraform project template for deploying infrastructure across multiple environments and regions, following best practices with modular structure and automated syntax checks
 
 - **Ansible**
   - [**AnsibleHub**](https://github.com/TheDevOpsHub/AnsibleHub): The Ansible Hub
