@@ -34,13 +34,13 @@
 
 ### IaC
 Infrastructure as code
-#### Terraform
-- [**TerraformHub**](https://github.com/TheDevOpsHub/TerraformHub): 🚀 Practical and document place for Terraform
-- [**aws-lab-with-terraform**](https://github.com/tungbq/aws-lab-with-terraform): Collection of Terraform code for AWS labs
+- **Terraform**
+  - [**TerraformHub**](https://github.com/TheDevOpsHub/TerraformHub): 🚀 Practical and document place for Terraform
+  - [**aws-lab-with-terraform**](https://github.com/tungbq/aws-lab-with-terraform): Collection of Terraform code for AWS labs
 
-#### Ansible
-- [**AnsibleHub**](https://github.com/TheDevOpsHub/AnsibleHub): The Ansible Hub
-- [**ansible-template**](https://github.com/TheDevOpsHub/ansible-template): Ansible template repository with CI, linting, containerization, and more...
+- **Ansible**
+  - [**AnsibleHub**](https://github.com/TheDevOpsHub/AnsibleHub): The Ansible Hub
+  - [**ansible-template**](https://github.com/TheDevOpsHub/ansible-template): Ansible template repository with CI, linting, containerization, and more...
 
 ### Containerization / K8s
 
