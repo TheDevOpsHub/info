@@ -1,5 +1,28 @@
 <!-- <h1 align="center"><img src="./assets/logo.png" width="400"></h1> -->
-<h1 align="center">The DevOps Hub Info</h1>
+<h1 align="center">The DevOps Hub</h1>
+
+<h2 align="center">
+<img height="28" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" />
+<img height="28" src="https://skillicons.dev/icons?i=aws" /> 
+<img height="28" src="https://skillicons.dev/icons?i=azure" />
+<img height="28" src="https://skillicons.dev/icons?i=docker" />
+<img height="28" src="https://skillicons.dev/icons?i=kubernetes" />
+<img height="28" src="https://helm.sh/img/helm.svg"> 
+<img height="28" src="https://skillicons.dev/icons?i=terraform" /> 
+<img height="28" src="https://skillicons.dev/icons?i=ansible" />
+<img height="28" src="https://skillicons.dev/icons?i=jenkins" />
+<img height="28" src="https://skillicons.dev/icons?i=bash" />
+<img height="28" src="https://skillicons.dev/icons?i=git" />
+<img height="28" src="https://skillicons.dev/icons?i=elasticsearch" />
+<img height="28" src="https://skillicons.dev/icons?i=prometheus" />
+<img height="28" src="https://skillicons.dev/icons?i=nginx" />
+<img height="28" src="https://skillicons.dev/icons?i=cloudflare" />
+<img width="32" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
+<img height="28" src="https://skillicons.dev/icons?i=py" />
+<img height="28" src="https://skillicons.dev/icons?i=gitlab" />
+<img height="28" src="https://avatars.githubusercontent.com/u/30269780">
+...
+</h2>
 
 ## Welcome to TheDevOpsHub 👋
 
@@ -33,8 +56,11 @@
 - [**JenkinsHub**](https://github.com/TheDevOpsHub/JenkinsHub): The Jenkins Hub
 
 ### IaC
+
 Infrastructure as code
+
 - **Terraform**
+
   - [**TerraformHub**](https://github.com/TheDevOpsHub/TerraformHub): 🚀 Practical and document place for Terraform
   - [**aws-lab-with-terraform**](https://github.com/tungbq/aws-lab-with-terraform): Collection of Terraform code for AWS labs
   - [**terraform-template**](https://github.com/TheDevOpsHub/terraform-template): Terraform project template for deploying infrastructure across multiple environments and regions, following best practices with modular structure and automated syntax checks
