@@ -30,7 +30,7 @@
 - Owner and maintainer: [@tungbq](https://github.com/tungbq) (Tung Leo)
 - GitHub: [github.com/thedevopshub](https://github.com/thedevopshub)
 - Website: [thedevopshub.org](https://thedevopshub.org/)
-- Email: [info@thedevopshub.org](info@thedevopshub.org)
+- Email: info@thedevopshub.org
 
 ## Projects 🔖
 
