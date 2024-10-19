@@ -42,10 +42,12 @@
 - [**devops-project**](https://github.com/tungbq/devops-project): Collection of DevOps projects to level up your DevOps skills
 
 ### Cloud
+- **Azure**
+  - [**AzureHub**](https://github.com/TheDevOpsHub/AzureHub): ☁️ Collection of Azure documentation and learning resources
+  - [**AZ-104**](https://github.com/TheDevOpsHub/AZ-104): AZ-104 certification learning resources
 
-- [**AzureHub**](https://github.com/TheDevOpsHub/AzureHub): ☁️ Collection of Azure documentation and learning resources
-- [**AWSHub**](https://github.com/tungbq/AWSHub): 📚 Collection of AWS Services documentation and learning resources ☁️
-- [**AZ-104**](https://github.com/TheDevOpsHub/AZ-104): AZ-104 certification learning resources
+- **AWS**
+  - [**AWSHub**](https://github.com/tungbq/AWSHub): 📚 Collection of AWS Services documentation and learning resources ☁️
 
 ### Linux/OS
 
