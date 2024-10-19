@@ -88,4 +88,6 @@ Infrastructure as code
 
 - [**Books**](https://github.com/TheDevOpsHub/Books): 📚 Collection of DevOps books
 
+...and more upcoming content...⏩ you can follow this GitHub organization to get more up-to-dated content ⭐
+
 Checkout all the repositories at [**TheDevOpsHub/repositories**](https://github.com/orgs/TheDevOpsHub/repositories)
