@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30",
+  "generatedAt": "2026-09-06",
   "orgProfile": {
     "login": "TheDevOpsHub",
     "name": "TheDevOpsHub",
@@ -32,7 +32,7 @@
       "name": "AZ-104",
       "owner": "TheDevOpsHub",
       "description": "AZ-104 certification preparation notes",
-      "stars": 17,
+      "stars": 18,
       "forks": 8,
       "language": null,
       "topics": [
@@ -165,7 +165,7 @@
       "owner": "tungbq",
       "description": "Collection of Terraform code for AWS labs",
       "stars": 15,
-      "forks": 16,
+      "forks": 17,
       "language": "HCL",
       "topics": [
         "aws",
@@ -224,9 +224,9 @@
       "name": "devops-basics",
       "owner": "tungbq",
       "description": "🚀 Practical and document place for DevOps toolchain",
-      "stars": 1876,
-      "forks": 213,
-      "language": "HCL",
+      "stars": 1877,
+      "forks": 212,
+      "language": "Shell",
       "topics": [
         "ansible",
         "aws",
@@ -250,7 +250,7 @@
         "terraform"
       ],
       "htmlUrl": "https://github.com/tungbq/devops-basics",
-      "pushedAt": "2026-08-16T06:54:25Z",
+      "pushedAt": "2026-09-02T14:20:01Z",
       "archived": false
     },
     "devops-practice": {
@@ -294,7 +294,7 @@
         "terraform"
       ],
       "htmlUrl": "https://github.com/tungbq/devops-project",
-      "pushedAt": "2026-08-30T05:27:09Z",
+      "pushedAt": "2026-09-04T13:34:02Z",
       "archived": false
     },
     "k8sHub": {
